@@ -1,0 +1,1 @@
+var trace1 = { x: [1,2,3,4,5,],y: [1,2,3,4,6.5,],type: 'scatter'};var data = [trace1];var layout = {title: 'Graph Title'};Plotly.newPlot(graphDiv, data, layout);
